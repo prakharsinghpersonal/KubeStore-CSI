@@ -1,2 +1,3 @@
 - Commit 2 (AWS Integration): Implement the Go logic using the AWS SDK to programmatically create, attach, and detach Elastic Block Store (EBS) volumes.
 - Commit 3 (Controller Server): Build the CSI Controller service methods (CreateVolume, DeleteVolume, ControllerPublishVolume) to handle K8s persistent volume claims.
+- Commit 4 (Node Server): Implement the CSI Node service methods (NodeStageVolume, NodePublishVolume) focusing on Linux disk mounting, formatting, and symlinking.
