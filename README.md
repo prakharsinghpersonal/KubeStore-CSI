@@ -1,0 +1,1 @@
+# KubeStore-CSI\n\n**KubeStore: Persistent Storage Provisioner - CSI driver in Go to dynamically provision and attach AWS EBS volumes.**\n\n## Tech Stack\n- Go\n- Kubernetes\n- AWS EBS\n- Linux\n
